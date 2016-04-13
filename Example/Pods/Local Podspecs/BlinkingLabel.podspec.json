@@ -1,15 +1,15 @@
 {
   "name": "BlinkingLabel",
   "version": "0.1.0",
-  "summary": "A short description of BlinkingLabel.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/BlinkingLabel",
+  "summary": "BlinkingLabel is a pod about UILabel class for Swift",
+  "description": "BlinkingLabel is a pod about UILabel class for Swift. This tutorial will walk you through creating a pod that allows you to create a UILabel that blinks. We'll call it BlinkingLabel. Do you have a unique take on how to perform certain string manipulations? Do you have a favorite subclass that you wrote for performing a slick animation on a UIView? Specific utility code like this is a great example of what can be turned into a pod. It’s often already well-factored and decoupled from other existing code bases",
+  "homepage": "https://github.com/luli-isa/BlinkingLabel",
   "license": "MIT",
   "authors": {
     "Repele Luisa (UniCredit)": "luisa.repele@unicredit.eu"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/BlinkingLabel.git",
+    "git": "https://github.com/luli-isa/BlinkingLabel.git",
     "tag": "0.1.0"
   },
   "platforms": {
