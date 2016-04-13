@@ -29,7 +29,7 @@ class ViewController: UIViewController {
         let toggleButton = UIButton(frame: CGRectMake(10, 60, 125, 30))
         toggleButton.setTitle("Toggle Blinking", forState: .Normal)
         toggleButton.setTitleColor(UIColor.redColor(), forState: .Normal)
-        toggleButton.addTarget(self, action: "toggleBlinking", forControlEvents: .TouchUpInside)
+        toggleButton.addTarget(self, action: #selector(ViewController.toggleBlinking), forControlEvents: .TouchUpInside)
         view.addSubview(toggleButton)
     }
     
